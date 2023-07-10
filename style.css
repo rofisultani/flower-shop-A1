@@ -1,0 +1,21 @@
+.banner-pic{
+    width: 300px;
+}
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: top;
+    border: 2px solid gray;
+    background-color: bisque;
+    padding: 100px;
+}
+
+.btn{
+    padding: 8px;
+    background-color: rgb(255, 14, 14);
+    color: aliceblue;
+    border: none;
+    border-radius: 5px;
+
+}

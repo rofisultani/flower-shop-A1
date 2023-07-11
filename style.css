@@ -39,6 +39,8 @@
     line-height: 10px;
     font-size: medium;
     font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 .flower1{
     background-color: rgb(85, 90, 41);
@@ -57,7 +59,7 @@
     display: flex;
     justify-content: space-around;
     justify-items: center;
-    width: 1400px;
+    width: 2000px;
     height: 150px;
     border: 2px solid black;
     padding-top: 50px;
@@ -68,6 +70,9 @@
     display: flex;
     background-color: beige;
     justify-content: space-around;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    text-align:center
 }
 
 .bat{
@@ -80,4 +85,33 @@
 
 .Instagram{
     text-align: center;
+    margin-top: 20px;
+}
+
+.get{
+    text-align: center;
+    margin: bottom;
+    height: 50vh;
+    justify-content: center;
+
+}
+.bol{
+    background-image: url("C:\Projects\flower-shop-assignment\Flower Asset\Rectangle 9.png");
+}
+.shop{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: black;
+    color: aliceblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.email{
+    font-size: larger;
+}
+.er{
+    color: crimson;
 }
